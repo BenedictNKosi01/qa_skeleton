@@ -2,7 +2,7 @@
 
 # Installation
 
-`yarn install` to install all the dependencies, `yarn build` to create `dist/bundle.js`, and `open index.html` to see it running in a browser. pr
+`yarn install` to install all the dependencies, `yarn build` to create `dist/bundle.js`, and `open index.html` to see it running in a browser. other branch
 
 
 # Credit
